@@ -1,5 +1,6 @@
 import React from "react";
 import {Day} from "./Day";
+import './Calendar.css'
 
 class Calendar extends React.Component {
     constructor(props, context) {
@@ -16,8 +17,7 @@ class Calendar extends React.Component {
             <Day key={day.getDate()} day={day}/>
         );
         return (
-            <div>
-                <h1>Calendar</h1>
+            <div className="calendar">
                 <ul className="days">{listItems}</ul>
             </div>
         )

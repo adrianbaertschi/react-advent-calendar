@@ -1,0 +1,300 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders calendar like snapshot 1`] = `
+<div
+  className="calendar"
+>
+  <ul
+    className="days"
+  >
+    <li
+      className="day"
+      onClick={[Function]}
+    >
+      <a
+        className="enabled"
+      >
+         
+        1
+         
+      </a>
+    </li>
+    <li
+      className="day"
+      onClick={[Function]}
+    >
+      <a
+        className="enabled"
+      >
+         
+        2
+         
+      </a>
+    </li>
+    <li
+      className="day"
+      onClick={[Function]}
+    >
+      <a
+        className="enabled"
+      >
+         
+        3
+         
+      </a>
+    </li>
+    <li
+      className="day"
+      onClick={[Function]}
+    >
+      <a
+        className="enabled"
+      >
+         
+        4
+         
+      </a>
+    </li>
+    <li
+      className="day"
+      onClick={[Function]}
+    >
+      <a
+        className="disabled"
+      >
+         
+        5
+         
+      </a>
+    </li>
+    <li
+      className="day"
+      onClick={[Function]}
+    >
+      <a
+        className="disabled"
+      >
+         
+        6
+         
+      </a>
+    </li>
+    <li
+      className="day"
+      onClick={[Function]}
+    >
+      <a
+        className="disabled"
+      >
+         
+        7
+         
+      </a>
+    </li>
+    <li
+      className="day"
+      onClick={[Function]}
+    >
+      <a
+        className="disabled"
+      >
+         
+        8
+         
+      </a>
+    </li>
+    <li
+      className="day"
+      onClick={[Function]}
+    >
+      <a
+        className="disabled"
+      >
+         
+        9
+         
+      </a>
+    </li>
+    <li
+      className="day"
+      onClick={[Function]}
+    >
+      <a
+        className="disabled"
+      >
+         
+        10
+         
+      </a>
+    </li>
+    <li
+      className="day"
+      onClick={[Function]}
+    >
+      <a
+        className="disabled"
+      >
+         
+        11
+         
+      </a>
+    </li>
+    <li
+      className="day"
+      onClick={[Function]}
+    >
+      <a
+        className="disabled"
+      >
+         
+        12
+         
+      </a>
+    </li>
+    <li
+      className="day"
+      onClick={[Function]}
+    >
+      <a
+        className="disabled"
+      >
+         
+        13
+         
+      </a>
+    </li>
+    <li
+      className="day"
+      onClick={[Function]}
+    >
+      <a
+        className="disabled"
+      >
+         
+        14
+         
+      </a>
+    </li>
+    <li
+      className="day"
+      onClick={[Function]}
+    >
+      <a
+        className="disabled"
+      >
+         
+        15
+         
+      </a>
+    </li>
+    <li
+      className="day"
+      onClick={[Function]}
+    >
+      <a
+        className="disabled"
+      >
+         
+        16
+         
+      </a>
+    </li>
+    <li
+      className="day"
+      onClick={[Function]}
+    >
+      <a
+        className="disabled"
+      >
+         
+        17
+         
+      </a>
+    </li>
+    <li
+      className="day"
+      onClick={[Function]}
+    >
+      <a
+        className="disabled"
+      >
+         
+        18
+         
+      </a>
+    </li>
+    <li
+      className="day"
+      onClick={[Function]}
+    >
+      <a
+        className="disabled"
+      >
+         
+        19
+         
+      </a>
+    </li>
+    <li
+      className="day"
+      onClick={[Function]}
+    >
+      <a
+        className="disabled"
+      >
+         
+        20
+         
+      </a>
+    </li>
+    <li
+      className="day"
+      onClick={[Function]}
+    >
+      <a
+        className="disabled"
+      >
+         
+        21
+         
+      </a>
+    </li>
+    <li
+      className="day"
+      onClick={[Function]}
+    >
+      <a
+        className="disabled"
+      >
+         
+        22
+         
+      </a>
+    </li>
+    <li
+      className="day"
+      onClick={[Function]}
+    >
+      <a
+        className="disabled"
+      >
+         
+        23
+         
+      </a>
+    </li>
+    <li
+      className="day"
+      onClick={[Function]}
+    >
+      <a
+        className="disabled"
+      >
+         
+        24
+         
+      </a>
+    </li>
+  </ul>
+</div>
+`;
