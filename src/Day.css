@@ -7,17 +7,25 @@
     padding: 20px;
 }
 
-.closed {
-    background-color: gray;
+.day {
     text-align: center;
     display: table;
 }
 
-.closed a {
+.day a {
     display: table-cell;
     vertical-align: middle;
     font-size: 4em;
 }
 
-.open {
+.disabled {
+    background-color: gray;
+}
+
+.enabled {
+    background-color: firebrick;
+}
+
+.enabled:hover {
+    cursor: pointer;
 }
