@@ -1,4 +1,5 @@
 import React from "react";
+import {Day} from "./Day";
 
 class Calendar extends React.Component {
     constructor(props, context) {
@@ -12,12 +13,12 @@ class Calendar extends React.Component {
 
     render() {
         const listItems = this.dates.map((day) =>
-            <li key={day.getDate()}>{day.getDate()}</li>
+            <Day key={day.getDate()} day={day}/>
         );
         return (
             <div>
                 <h1>Calendar</h1>
-                <ul>{listItems}</ul>
+                <ul className="days">{listItems}</ul>
             </div>
         )
     }
