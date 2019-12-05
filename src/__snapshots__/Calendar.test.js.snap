@@ -11,289 +11,289 @@ exports[`renders calendar like snapshot 1`] = `
       className="day"
       onClick={[Function]}
     >
-      <a
+      <p
         className="enabled"
       >
          
         1
          
-      </a>
+      </p>
     </li>
     <li
       className="day"
       onClick={[Function]}
     >
-      <a
+      <p
         className="enabled"
       >
          
         2
          
-      </a>
+      </p>
     </li>
     <li
       className="day"
       onClick={[Function]}
     >
-      <a
+      <p
         className="enabled"
       >
          
         3
          
-      </a>
+      </p>
     </li>
     <li
       className="day"
       onClick={[Function]}
     >
-      <a
+      <p
         className="enabled"
       >
          
         4
          
-      </a>
+      </p>
     </li>
     <li
       className="day"
       onClick={[Function]}
     >
-      <a
+      <p
         className="disabled"
       >
          
         5
          
-      </a>
+      </p>
     </li>
     <li
       className="day"
       onClick={[Function]}
     >
-      <a
+      <p
         className="disabled"
       >
          
         6
          
-      </a>
+      </p>
     </li>
     <li
       className="day"
       onClick={[Function]}
     >
-      <a
+      <p
         className="disabled"
       >
          
         7
          
-      </a>
+      </p>
     </li>
     <li
       className="day"
       onClick={[Function]}
     >
-      <a
+      <p
         className="disabled"
       >
          
         8
          
-      </a>
+      </p>
     </li>
     <li
       className="day"
       onClick={[Function]}
     >
-      <a
+      <p
         className="disabled"
       >
          
         9
          
-      </a>
+      </p>
     </li>
     <li
       className="day"
       onClick={[Function]}
     >
-      <a
+      <p
         className="disabled"
       >
          
         10
          
-      </a>
+      </p>
     </li>
     <li
       className="day"
       onClick={[Function]}
     >
-      <a
+      <p
         className="disabled"
       >
          
         11
          
-      </a>
+      </p>
     </li>
     <li
       className="day"
       onClick={[Function]}
     >
-      <a
+      <p
         className="disabled"
       >
          
         12
          
-      </a>
+      </p>
     </li>
     <li
       className="day"
       onClick={[Function]}
     >
-      <a
+      <p
         className="disabled"
       >
          
         13
          
-      </a>
+      </p>
     </li>
     <li
       className="day"
       onClick={[Function]}
     >
-      <a
+      <p
         className="disabled"
       >
          
         14
          
-      </a>
+      </p>
     </li>
     <li
       className="day"
       onClick={[Function]}
     >
-      <a
+      <p
         className="disabled"
       >
          
         15
          
-      </a>
+      </p>
     </li>
     <li
       className="day"
       onClick={[Function]}
     >
-      <a
+      <p
         className="disabled"
       >
          
         16
          
-      </a>
+      </p>
     </li>
     <li
       className="day"
       onClick={[Function]}
     >
-      <a
+      <p
         className="disabled"
       >
          
         17
          
-      </a>
+      </p>
     </li>
     <li
       className="day"
       onClick={[Function]}
     >
-      <a
+      <p
         className="disabled"
       >
          
         18
          
-      </a>
+      </p>
     </li>
     <li
       className="day"
       onClick={[Function]}
     >
-      <a
+      <p
         className="disabled"
       >
          
         19
          
-      </a>
+      </p>
     </li>
     <li
       className="day"
       onClick={[Function]}
     >
-      <a
+      <p
         className="disabled"
       >
          
         20
          
-      </a>
+      </p>
     </li>
     <li
       className="day"
       onClick={[Function]}
     >
-      <a
+      <p
         className="disabled"
       >
          
         21
          
-      </a>
+      </p>
     </li>
     <li
       className="day"
       onClick={[Function]}
     >
-      <a
+      <p
         className="disabled"
       >
          
         22
          
-      </a>
+      </p>
     </li>
     <li
       className="day"
       onClick={[Function]}
     >
-      <a
+      <p
         className="disabled"
       >
          
         23
          
-      </a>
+      </p>
     </li>
     <li
       className="day"
       onClick={[Function]}
     >
-      <a
+      <p
         className="disabled"
       >
          
         24
          
-      </a>
+      </p>
     </li>
   </ul>
 </div>
