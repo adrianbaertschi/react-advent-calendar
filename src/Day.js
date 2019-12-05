@@ -6,7 +6,7 @@ export class Day extends React.Component {
         super(props, context);
         this.state = {
             isRevealed: false,
-            isEnabled: new Date() > this.props.day
+            isEnabled: new Date(Date.now()) > this.props.day
         };
 
         this.reveal = this.reveal.bind(this);
