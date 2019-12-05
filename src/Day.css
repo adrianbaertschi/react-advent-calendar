@@ -12,7 +12,7 @@
     display: table;
 }
 
-.day a {
+.day p {
     display: table-cell;
     vertical-align: middle;
     font-size: 4em;

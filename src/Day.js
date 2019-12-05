@@ -24,7 +24,7 @@ export class Day extends React.Component {
             const url = `https://source.unsplash.com/random/200x200?christmas${this.props.day.getDate()}`; // add number to get a new image every time
             content = <img src={url} alt="pic"/>
         } else {
-            content = <a className={this.state.isEnabled ? 'enabled' : 'disabled'}> {this.props.day.getDate()} </a>
+            content = <p className={this.state.isEnabled ? 'enabled' : 'disabled'}> {this.props.day.getDate()} </p>
         }
 
         return <li className="day" onClick={this.reveal}>
