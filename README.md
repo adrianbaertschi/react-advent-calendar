@@ -1,3 +1,18 @@
+# Simple React demo app
+
+* Integration and snapshot tests with [Jest](https://jestjs.io/) and [React Testing Library](https://github.com/testing-library/react-testing-library)
+* E2E tests with [Cypress](https://www.cypress.io/)
+* CI/CD pipeline with [AWS Amplify](https://aws.amazon.com/de/amplify/)
+  * Make sure to add an Environment variable in the web Console name="CI", value ="true" to run Jest without waiting for user input
+  * Deployed app: https://master.d3p1fxdcq6zaq9.amplifyapp.com/
+
+### Resources
+* https://jestjs.io/docs/en/snapshot-testing
+* https://reactjs.org/docs/testing-recipes.html
+* https://docs.aws.amazon.com/amplify/latest/userguide/running-tests.html
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
