@@ -30,7 +30,7 @@
   },
   "devDependencies": {
     "@testing-library/react": "^9.3.2",
-    "cypress": "^15.7.1",
+    "cypress": "^15.10.0",
     "react-test-renderer": "^16.12.0"
   }
 }
